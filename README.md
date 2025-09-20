@@ -11,14 +11,15 @@ El Gist funciona como un pequeño repositorio independiente donde se guardó un 
 
 ## Integrantes del Grupo
 
-Albornoz Gian Franco
-Arreceygor Fabio
-Bruna Roy
-Cisterna Abril
-Fernández Franco
-Fernández Valentín
-Platero Martin
-Ponzina Lautaro
-Marcos Ortíz 
-Nicolás Veloz 
-Sat Emir 
+- Albornoz Gian Franco  
+- Arreceygor Fabio  
+- Bruna Roy  
+- Cisterna Abril  
+- Fernández Franco  
+- Fernández Valentín  
+- Platero Martin  
+- Ponzina Lautaro  
+- Marcos Ortíz  
+- Nicolás Veloz  
+- Sat Emir  
+
